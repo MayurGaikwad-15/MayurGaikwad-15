@@ -12,7 +12,7 @@
 ## 🧭 Profile
 
 🎓 BE – Artificial Intelligence & Machine Learning  
-🏛 Foundations  AI/ML Program – IIT Patna  
+🏛 Foundations in AI/ML Program – IIT Patna  
 
 I focus on building structured, scalable, research-backed AI systems.
 Every project is engineered with clarity, modularity, and performance in mind.
